@@ -1,0 +1,114 @@
+{
+  "total_pdfs_processed": 27,
+  "total_chunks": 267,
+  "files": [
+    {
+      "filename": "Leader_Tracking_of_Euler_Lagrange_Agents_on_Direct.pdf",
+      "chunks": 17
+    },
+    {
+      "filename": "Lorentz_Invariance_and_Superluminal_Particles.pdf",
+      "chunks": 7
+    },
+    {
+      "filename": "Low_frequency_wide_band_gap_elastic_acoustic_meta_.pdf",
+      "chunks": 21
+    },
+    {
+      "filename": "Multi_Sensor_Fuzzy_Data_Fusion_Using_Sensors_with_.pdf",
+      "chunks": 18
+    },
+    {
+      "filename": "New_Developments_in_Hybrid_Photon_Detectors.pdf",
+      "chunks": 6
+    },
+    {
+      "filename": "Nonlinear_phase_shift_without_cascaded_second_orde.pdf",
+      "chunks": 7
+    },
+    {
+      "filename": "Nuclear_Data_and_Fuel_Assembly_Manufacturing_Uncer.pdf",
+      "chunks": 4
+    },
+    {
+      "filename": "Numerical_simulation_of_gliding_reflection_of_X_ra.pdf",
+      "chunks": 7
+    },
+    {
+      "filename": "Numerical_Study_on_Space_Time_Pulse_Compression.pdf",
+      "chunks": 11
+    },
+    {
+      "filename": "One_Chip_Solution_to_Intelligent_Robot_Control__Im.pdf",
+      "chunks": 11
+    },
+    {
+      "filename": "Online_Simultaneous_State_and_Parameter_Estimation.pdf",
+      "chunks": 11
+    },
+    {
+      "filename": "On_asymptotic_characterization_of_destabilizing_sw.pdf",
+      "chunks": 20
+    },
+    {
+      "filename": "On_a_chip_biosensing_based_on_all_dielectric_nanor.pdf",
+      "chunks": 9
+    },
+    {
+      "filename": "On_Localized__X_shaped__Superluminal_Solutions_to_.pdf",
+      "chunks": 26
+    },
+    {
+      "filename": "Optical_microsphere_resonators__optimal_coupling_t.pdf",
+      "chunks": 11
+    },
+    {
+      "filename": "Optical_vernier_technique_for_in_situ_measurement_.pdf",
+      "chunks": 3
+    },
+    {
+      "filename": "Performance_Analysis_and_Fault_Diagnosis_Method_fo.pdf",
+      "chunks": 11
+    },
+    {
+      "filename": "Pinhole_induced_efficiency_variation_in_perovskite.pdf",
+      "chunks": 15
+    },
+    {
+      "filename": "PI_D__tuning_for_Flight_Control_Systems_via_Increm.pdf",
+      "chunks": 9
+    },
+    {
+      "filename": "Power_Switching_in_Hybrid_Coherent_Couplers.pdf",
+      "chunks": 3
+    },
+    {
+      "filename": "Preliminary_Results_for_LP_VPE_X_Ray_Detectors.pdf",
+      "chunks": 2
+    },
+    {
+      "filename": "Propagation_of_a_short_laser_pulse_in_a_plasma.pdf",
+      "chunks": 5
+    },
+    {
+      "filename": "Qualitative_Study_of_a_Robot_Arm_as_a_Hamiltonian_.pdf",
+      "chunks": 5
+    },
+    {
+      "filename": "Quantum_Noise_Reduction_and_Generalized_Two_Mode_S.pdf",
+      "chunks": 8
+    },
+    {
+      "filename": "Radiation_Induced_Damage_in_GaAs_Particle_Detector.pdf",
+      "chunks": 2
+    },
+    {
+      "filename": "Recent_results_on_GaAs_detectors___137.pdf",
+      "chunks": 4
+    },
+    {
+      "filename": "Replay_Debugging_of_Complex_Real_Time_Systems__Exp.pdf",
+      "chunks": 14
+    }
+  ]
+}
